@@ -4,4 +4,8 @@
     <loc>https://admin-iget.github.io/</loc>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://admin-iget.github.io/test/</loc>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
